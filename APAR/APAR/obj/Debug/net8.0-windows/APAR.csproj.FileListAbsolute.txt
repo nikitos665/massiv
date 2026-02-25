@@ -1,0 +1,16 @@
+C:\Users\w7\Desktop\APAR\APAR\bin\Debug\net8.0-windows\APAR.exe
+C:\Users\w7\Desktop\APAR\APAR\bin\Debug\net8.0-windows\APAR.deps.json
+C:\Users\w7\Desktop\APAR\APAR\bin\Debug\net8.0-windows\APAR.runtimeconfig.json
+C:\Users\w7\Desktop\APAR\APAR\bin\Debug\net8.0-windows\APAR.dll
+C:\Users\w7\Desktop\APAR\APAR\bin\Debug\net8.0-windows\APAR.pdb
+C:\Users\w7\Desktop\APAR\APAR\obj\Debug\net8.0-windows\APAR.Form1.resources
+C:\Users\w7\Desktop\APAR\APAR\obj\Debug\net8.0-windows\APAR.csproj.GenerateResource.cache
+C:\Users\w7\Desktop\APAR\APAR\obj\Debug\net8.0-windows\APAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w7\Desktop\APAR\APAR\obj\Debug\net8.0-windows\APAR.AssemblyInfoInputs.cache
+C:\Users\w7\Desktop\APAR\APAR\obj\Debug\net8.0-windows\APAR.AssemblyInfo.cs
+C:\Users\w7\Desktop\APAR\APAR\obj\Debug\net8.0-windows\APAR.csproj.CoreCompileInputs.cache
+C:\Users\w7\Desktop\APAR\APAR\obj\Debug\net8.0-windows\APAR.dll
+C:\Users\w7\Desktop\APAR\APAR\obj\Debug\net8.0-windows\refint\APAR.dll
+C:\Users\w7\Desktop\APAR\APAR\obj\Debug\net8.0-windows\APAR.pdb
+C:\Users\w7\Desktop\APAR\APAR\obj\Debug\net8.0-windows\APAR.genruntimeconfig.cache
+C:\Users\w7\Desktop\APAR\APAR\obj\Debug\net8.0-windows\ref\APAR.dll
