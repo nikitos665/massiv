@@ -1,0 +1,15 @@
+C:\Users\Никита\source\repos\масив\масив\bin\Debug\масив.exe.config
+C:\Users\Никита\source\repos\масив\масив\bin\Debug\масив.exe
+C:\Users\Никита\source\repos\масив\масив\bin\Debug\масив.pdb
+C:\Users\Никита\source\repos\масив\масив\obj\Debug\масив.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\масив\масив\obj\Debug\масив.Form1.resources
+C:\Users\Никита\source\repos\масив\масив\obj\Debug\масив.Properties.Resources.resources
+C:\Users\Никита\source\repos\масив\масив\obj\Debug\масив.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\масив\масив\obj\Debug\масив.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\масив\масив\obj\Debug\масив.exe
+C:\Users\Никита\source\repos\масив\масив\obj\Debug\масив.pdb
+C:\Users\Никита\source\repos\масив\масив\obj\Debug\масив.Form2.resources
+C:\Users\Никита\source\repos\масив\масив\obj\Debug\масив.Form3.resources
+C:\Users\Никита\source\repos\масив\масив\obj\Debug\масив.Form4.resources
+C:\Users\Никита\source\repos\масив\масив\obj\Debug\масив.Form5.resources
+C:\Users\Никита\source\repos\масив\масив\obj\Debug\масив.Form6.resources
